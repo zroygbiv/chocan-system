@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Patty Tester",
+        "street": "123 Alphabet",
+        "city": "Portlandia",
+        "state": "OR",
+        "zip": "97214",
+        "number": 1,
+        "deleted": false,
+        "active": true
+    },
+    {
+        "name": "Steven Software",
+        "street": "10th Circle",
+        "city": "Vancouver",
+        "state": "WA",
+        "zip": "98686",
+        "number": 2,
+        "deleted": false,
+        "active": true
+    },
+    {
+        "name": "Taylor Todds",
+        "street": "1900 Morrison St",
+        "city": "Portlandia",
+        "state": "OR",
+        "zip": "97214",
+        "number": 3,
+        "deleted": false,
+        "active": true
+    }
+]

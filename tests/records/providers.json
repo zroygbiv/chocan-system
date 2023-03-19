@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Provider 1",
+        "street": "Office Street",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97214",
+        "number": 1,
+        "deleted": false
+    },
+    {
+        "name": "Provider 2",
+        "street": "Provider Ave",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97222",
+        "number": 2,
+        "deleted": false
+    }
+]

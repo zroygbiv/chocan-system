@@ -1,0 +1,52 @@
+[
+    {
+        "code": 1,
+        "fee": 25000,
+        "name": "4 Hour Course: Exploring sugar alternatives"
+    },
+    {
+        "code": 2,
+        "fee": 20000,
+        "name": "4 Hour Course: Embracing your inner vegetable"
+    },
+    {
+        "code": 3,
+        "fee": 15000,
+        "name": "4 Hour course: Finding peace in a chocolate-driven world"
+    },
+    {
+        "code": 4,
+        "fee": 5000,
+        "name": "30 min - Personal Training"
+    },
+    {
+        "code": 5,
+        "fee": 10000,
+        "name": "60 min - Personal Training"
+    },
+    {
+        "code": 6,
+        "fee": 12500,
+        "name": "90 min - Personal Training"
+    },
+    {
+        "code": 7,
+        "fee": 10000,
+        "name": "30 min - General Therapy"
+    },
+    {
+        "code": 8,
+        "fee": 15000,
+        "name": "60 min - General Therapy"
+    },
+    {
+        "code": 9,
+        "fee": 10000,
+        "name": "30 min - Dietitian Consult"
+    },
+    {
+        "code": 10,
+        "fee": 5000,
+        "name": "Chocolate skeet shooting"
+    }
+]
